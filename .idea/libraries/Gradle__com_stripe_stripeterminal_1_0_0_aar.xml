@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripeterminal:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/044e9d958414c29e2fc1cf226e29f0a2/jetified-stripeterminal-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/044e9d958414c29e2fc1cf226e29f0a2/jetified-stripeterminal-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/044e9d958414c29e2fc1cf226e29f0a2/jetified-stripeterminal-1.0.0/jars/libs/bbpossdk-1.7-all.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/stripeterminal/1.0.0/a91a6bc6a572f2cf62acf6961498e7a7b9191937/stripeterminal-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,59 @@
+import 'package:dots_indicator/dots_indicator.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:vegood/controllers/size_config.dart';
+import 'package:vegood/widgets/restaurant_screen_widgets/inside_menu_tab.dart';
+import 'package:vegood/widgets/restaurant_screen_widgets/restaurant_cover_photo_list.dart';
+import 'package:vegood/widgets/restaurant_screen_widgets/restaurant_name_location_rate.dart';
+
+class RestaurantScreen extends StatefulWidget {
+  @override
+  _RestaurantScreenState createState() => _RestaurantScreenState();
+
+  bool isFavourite = false;
+}
+
+class _RestaurantScreenState extends State<RestaurantScreen> {
+  @override
+  Widget build(BuildContext context) {
+    SizeConfig().init(context);
+    return Scaffold(
+      body: Stack(
+        children: <Widget>[
+          CoverPhotoList(),
+          Padding(
+            padding: EdgeInsets.only(
+              top: 5 * SizeConfig.blockSizeHorizontal,
+            ),
+            child: Row(
+              children: [
+                BackButton(
+                  color: Colors.white,
+                  onPressed: () => Navigator.pop(context),
+                ),
+                new Spacer(),
+                new IconButton(
+                  icon: new Icon(
+                    widget.isFavourite ? Icons.favorite : Icons.favorite_border,
+                    //color: Color(0xFFFFA100),
+                    color: Color(0xFFFFFFFF),
+                  ),
+                  onPressed: (){
+                    setState(() {
+                      widget.isFavourite = !widget.isFavourite;
+                    });},
+                ),
+              ],
+            ),
+          ),
+          Padding(
+            padding: EdgeInsets.only(
+              top: (20 * SizeConfig.blockSizeVertical) - (10 * SizeConfig.blockSizeHorizontal),
+            ),
+            child: Row(
+              children: [
+                DotsIndicator(
+                  dotsCount: 3,
+                  position: 1,
+                  decorator: DotsDecorator(
+            

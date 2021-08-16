@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cdf059e-ce58-41f7-9234-1450fdaf3e2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/constants/text_styles.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants/text_styles.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/restaurant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/restaurant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/forgot_pass.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/forgot_pass.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/p_info_registration.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/p_info_registration.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/preferences_registration.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/preferences_registration.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/register.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/register.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/reset_password.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/reset_password.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/restaurant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/restaurant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/verification_code.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/verification_code.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/authentication_screens_widgets/api_authentication_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/authentication_screens_widgets/api_authentication_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/authentication_screens_widgets/input_textField.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/authentication_screens_widgets/input_textField.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/filters_screen_widgets/restriction_checkBox.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/filters_screen_widgets/restriction_checkBox.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/filters_screen_widgets/restrictions_check_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/filters_screen_widgets/restrictions_check_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/home_screen_widgets/selection-button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/home_screen_widgets/selection-button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/inside_menu_tab.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/inside_menu_tab.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/meal_info.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/meal_info.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/restaurant_name_location_rate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/restaurant_name_location_rate.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_22" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/screens/splash.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/models/meal.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="59" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/constants/text_styles.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/screens/restaurant.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-339">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/restaurant_name_location_rate.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="34" column="62" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/restaurant_cover_photo_list.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/meal_info.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1598">
+              <caret line="98" column="26" selection-start-line="89" selection-start-column="24" selection-end-line="98" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/widgets/restaurant_screen_widgets/inside_menu_tab.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>margin</find>
+      <find>meal</find>
+      <find>tags</find>
+      <find>state</find>
+      <find>setState</find>
+      <find>Flexible</find>
+      <find>F</find>
+      <find>KLA</find>
+      <find>kte</find>
+      <find>ali</find>
+      <find>prefix</find>
+      <find>color</find>
+      <find>api</find>
+      <find>kSmallLabel</find>
+      <find>kTe</find>
+      <find>_onEditing</find>
+      <find>code</find>
+      <find>print</find>
+      <find>push</find>
+      <find>KF</find>
+      <find>widget</find>
+      <find>;</find>
+      <find>isRegisteredUser</find>
+      <find>12</find>
+      <find>card</find>
+      <find>che</find>
+ 
