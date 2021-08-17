@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-    <component name="ChangeListManager">
-        <list
-            name="Default Changelist"
-            comment=""
-            default="true"
-            id="6cdf059e-ce58-41f7-9234-1450fdaf3e2a">
-            <change beforePath="$PROJECT_DIR$/lib/constants/text_styles
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background"/>
+</adaptive-icon>

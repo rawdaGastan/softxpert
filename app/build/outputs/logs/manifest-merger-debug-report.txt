@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.stripe:stripe-android:12.6.1] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\717621fb1689de58ea2eeffaf16c666d\stripe-android-12.6.1\AndroidManifest.xml:2:1-29:12
 MERGED from [com.stripe:stripe-3ds2-android:2.2.4] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\c0c152f8efe3d6a172a79aeb03a6eb04\stripe-3ds2-android-2.2.4\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -19,6 +19,11 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ECC\.gradle\caches\trans
 MERGED from [com.jaredrummler:android-device-names:1.1.9] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\5b15acf119f3bb890da5ffefe5cb05dc\android-device-names-1.1.9\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\4677d8a5382c107f6965fb7455600737\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\dec1f298fd4f65356fef632cfd84ae24\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\d4ac5406afff2c32ba204aff877db35a\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\5e5428838914e25b5ebf89a98cec89e3\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\8be20a82d9a425d1350130c1f9cf7a62\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\d934be3c652b5ff5c18e2d68c8236453\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\a45f51b2867c115d86c8bdb1d487c72c\activity-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -55,20 +60,20 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\EC
 MERGED from [org.conscrypt:conscrypt-android:2.2.1] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\a5e9a7728eab02d84c35c1ab490d9e2c\jetified-conscrypt-android-2.2.1\AndroidManifest.xml:2:1-13:12
 MERGED from [com.he5ed.lib:volley:android-cts-5.1_r4] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\c603156e7f1115cac1df0f7b3f4fbacc\volley-android-cts-5.1_r4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\943a91d4d3d6ffde700293da66b1cd64\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:2:11-69
@@ -88,8 +93,12 @@ uses-permission#android.permission. ACCESS_COARSE_LOCATION
 ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:7:5-82
 	android:name
 		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:7:22-79
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:8:5-84
+	android:name
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:8:22-82
 application
-ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:9:5-22:19
+ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:11:5-24:19
 MERGED from [com.stripe:stripe-android:12.6.1] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\717621fb1689de58ea2eeffaf16c666d\stripe-android-12.6.1\AndroidManifest.xml:11:5-27:19
 MERGED from [com.stripe:stripe-android:12.6.1] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\717621fb1689de58ea2eeffaf16c666d\stripe-android-12.6.1\AndroidManifest.xml:11:5-27:19
 MERGED from [com.stripe:stripe-3ds2-android:2.2.4] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\c0c152f8efe3d6a172a79aeb03a6eb04\stripe-3ds2-android-2.2.4\AndroidManifest.xml:11:5-18:19
@@ -100,6 +109,16 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ECC\.gra
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\dec1f298fd4f65356fef632cfd84ae24\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\dec1f298fd4f65356fef632cfd84ae24\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\d4ac5406afff2c32ba204aff877db35a\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\d4ac5406afff2c32ba204aff877db35a\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\5e5428838914e25b5ebf89a98cec89e3\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\5e5428838914e25b5ebf89a98cec89e3\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\8be20a82d9a425d1350130c1f9cf7a62\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\8be20a82d9a425d1350130c1f9cf7a62\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\55580b0ab45b69249933074462ab11c2\lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
@@ -115,31 +134,31 @@ MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\ECC\.gradle\caches\tr
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:15:9-47
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:17:9-47
 activity#com.example.softxpertt.MainActivity
-ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:16:9-21:20
+ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:18:9-23:20
 	android:name
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:16:19-47
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:18:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:17:13-20:29
+ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ECC\instaBugChallenge\Softxpertt\app\src\main\AndroidManifest.xml
@@ -174,6 +193,16 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ECC\.gradle\cach
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\4677d8a5382c107f6965fb7455600737\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\dec1f298fd4f65356fef632cfd84ae24\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\dec1f298fd4f65356fef632cfd84ae24\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\d4ac5406afff2c32ba204aff877db35a\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\d4ac5406afff2c32ba204aff877db35a\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\5e5428838914e25b5ebf89a98cec89e3\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\5e5428838914e25b5ebf89a98cec89e3\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\8be20a82d9a425d1350130c1f9cf7a62\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\8be20a82d9a425d1350130c1f9cf7a62\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\d934be3c652b5ff5c18e2d68c8236453\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\d934be3c652b5ff5c18e2d68c8236453\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\loader-1.0.0\AndroidManifest.xml:20:5-44
@@ -314,6 +343,20 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.stripe:stripeterminal:1.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\044e9d958414c29e2fc1cf226e29f0a2\jetified-stripeterminal-1.0.0\AndroidManifest.xml:15:5-79
 	android:name
 		ADDED from [com.stripe:stripeterminal:1.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\044e9d958414c29e2fc1cf226e29f0a2\jetified-stripeterminal-1.0.0\AndroidManifest.xml:15:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\8be20a82d9a425d1350130c1f9cf7a62\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\8be20a82d9a425d1350130c1f9cf7a62\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\8be20a82d9a425d1350130c1f9cf7a62\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\ECC\.gradle\caches\transforms-2\files-2.1\55580b0ab45b69249933074462ab11c2\lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
 	android:authorities
